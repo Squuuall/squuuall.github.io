@@ -15,8 +15,11 @@ img.icons {
 	width: 75px;
 	height: 75px;
 }
-h1{
-	
+button {
+	cursor: pointer;
+}
+#button {
+	color: white;
 }
 
 /* Extra small devices (phones, up to 480px) */
