@@ -7,6 +7,10 @@ img.resize {
 	height: 20%;
 }
 
+img.resize2 {
+	width: 100px;
+}
+
 img.me {
 	border-radius: 1000px;
 }
