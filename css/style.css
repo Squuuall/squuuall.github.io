@@ -142,8 +142,14 @@ svg {
 .formFooter {
   display: none;
 }
+.form-footer {
+  display: none;
+}
 .formFooter-heightMask {
   display: none;
+}
+.form-all {
+  background: rgba(255,255,255,0);
 }
 
 rgba(255,255,255,0)
