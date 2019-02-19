@@ -126,6 +126,7 @@ svg {
 }
 .projects p {
   color: black;
+  padding: 0 20px;
 }
 .projects a {
   color: black;
