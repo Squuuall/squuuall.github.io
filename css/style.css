@@ -139,6 +139,11 @@ svg {
   margin-bottom: 20px;
 }
 
-.formFooter, .formFooter-heightMask {
+.formFooter {
   display: none;
 }
+.formFooter-heightMask {
+  display: none;
+}
+
+rgba(255,255,255,0)
