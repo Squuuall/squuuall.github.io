@@ -78,6 +78,9 @@ svg {
     display: inline-block;
     margin: 0 auto;
   }
+  .container {
+    display: inline-grid;
+  }
 }
 
 .overlay {
