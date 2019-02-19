@@ -138,3 +138,7 @@ svg {
 .col svg {
   margin-bottom: 20px;
 }
+
+.formFooter, .formFooter-heightMask {
+  display: none;
+}
